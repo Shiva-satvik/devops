@@ -1,5 +1,5 @@
 public class shiva{
 public static void main(String[] args){
-System.out.println("jenkins build");
+System.out.println("jenkins");
 }
 }
